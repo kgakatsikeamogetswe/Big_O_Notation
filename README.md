@@ -4,7 +4,7 @@
 
 
 
-1. **First things first, <ins>let's talk about `clean code`.** 🌟</ins>
+1. First things first, <ins>let's talk about `clean code`. 🌟</ins>
 
 Clean code is crucial when it comes to production. We must strive to write code as clean as possible. However, does clean code guarantee fast program execution? I think not. 🤔
 
@@ -23,7 +23,7 @@ So, even though we want our code to run fast, it's still really important to kee
 
 
 
-2. **Last things lasts, <ins>let's talk about `Big O Notation`.** 🌟</ins>
+2. Last things lasts, <ins>let's talk about `Big O Notation`. 🌟</ins>
 
 <em>What is Big O Notation?</em> Big O notation is like a way to talk about how fast an algorithm runs or how much space it needs. 🚀 It helps us understand how our code performs when we have a lot of data.
 
