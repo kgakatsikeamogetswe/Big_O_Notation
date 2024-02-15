@@ -19,4 +19,8 @@ To figure out how well our code runs, we can look at something called `Big O not
 So, even though we want our code to run fast, it's still really important to keep it clean. This helps us work well with our team and make sure our code lasts a long time. 🌟
 
 
+<ins>let's talk about `Big O Notation`.🌟</ins>
 
+Knowing Big O notation is super important for solving computer problems! 🌟 It helps us figure out how fast and efficient our solutions are, so we can make smart choices when solving different kinds of problems.
+
+If someone understands Big O notation, they'll have a great toolkit for tackling algorithmic problems! 💡
