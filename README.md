@@ -2,7 +2,7 @@
 
 <ins>_Am I the only one who feels like developers these days emphasize clean code more than Big O notation?_</ins>
 
-First things first, let's talk about `clean code`. 🌟
+First things first, <ins>let's talk about `clean code`.🌟</ins>
 
 Clean code is crucial when it comes to production. We must strive to write code as clean as possible. However, does clean code guarantee fast program execution? I think not. 🤔
 
@@ -19,7 +19,7 @@ To figure out how well our code runs, we can look at something called `Big O not
 So, even though we want our code to run fast, it's still really important to keep it clean. This helps us work well with our team and make sure our code lasts a long time. 🌟
 
 
-<ins>let's talk about `Big O Notation`.🌟</ins>
+Last things lasts, <ins>let's talk about `Big O Notation`.🌟</ins>
 
 Knowing Big O notation is super important for solving computer problems! 🌟 It helps us figure out how fast and efficient our solutions are, so we can make smart choices when solving different kinds of problems.
 
