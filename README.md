@@ -21,6 +21,14 @@ So, even though we want our code to run fast, it's still really important to kee
 
 Last things lasts, <ins>let's talk about `Big O Notation`.🌟</ins>
 
+What is Big O Notation? Big O notation is like a way to talk about how fast an algorithm runs or how much space it needs. 🚀 It helps us understand how our code performs when we have a lot of data.
+
+Imagine you have a list of things to do, and you want to find something in that list. Big O notation tells you how many steps it might take to find what you're looking for as the list gets longer. 📊
+
+For example, if you have 10 things in your list and you need to look through each one, it might take 10 steps. If you have 100 things, it might take 100 steps. Big O notation helps us see how the number of steps grows as the list gets bigger.
+
 Knowing Big O notation is super important for solving computer problems! 🌟 It helps us figure out how fast and efficient our solutions are, so we can make smart choices when solving different kinds of problems.
 
 If someone understands Big O notation, they'll have a great toolkit for tackling algorithmic problems! 💡
+
+Honestly, I'd rather give my client a fast program than worry too much about clean code. 🏃‍♂️ Another reason why many developers struggle in interviews is because they don't know how to approach solving the problem! 🤔 Like, how are you going to figure out the solution if all you've been taught is how to write clean code? 📝
