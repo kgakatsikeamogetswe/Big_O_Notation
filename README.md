@@ -1,6 +1,6 @@
 ## Is Big O Notation important in our lives?
 
-_Am I the only one who feels like developers these days emphasize clean code more than Big O notation?_
+<ins>_Am I the only one who feels like developers these days emphasize clean code more than Big O notation?_</ins>
 
 First things first, let's talk about `clean code`. 🌟
 
